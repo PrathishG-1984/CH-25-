@@ -1,2 +1,2 @@
-# CH-25-
-Inheritance and Images
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
